@@ -5,7 +5,8 @@ This is the Installing Instruction of [ViLBERT-multi-task](https://github.com/fa
 My Environment:
 
 - Ubuntu 18.04
-- cuda 10.1
+- CUDA 10.1
+- GCC 6.5.0
 
 I modified some codes in [the original code](https://github.com/facebookresearch/vilbert-multi-task) based on issues mentioned below. You may find it easier to get your own environment settled using codes in this repo.
 
